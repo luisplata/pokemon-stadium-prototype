@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b8edc3f391fb844649a4f86f3ed33bff
+timeCreated: 1510239099
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145324
+  packageName: RPG Cameras & Controllers
+  packageVersion: 6.1.2
+  assetPath: Assets/RPG Cameras & Controllers/ThirdPartyAssets/Unity/3DGamekit/Art/Shaders/GroundFog.shader
+  uploadId: 713013

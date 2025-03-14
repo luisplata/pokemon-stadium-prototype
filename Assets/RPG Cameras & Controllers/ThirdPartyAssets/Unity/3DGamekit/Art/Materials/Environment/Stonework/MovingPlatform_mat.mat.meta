@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: adb337a478630cf4c91511a0dc9dc393
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145324
+  packageName: RPG Cameras & Controllers
+  packageVersion: 6.1.2
+  assetPath: Assets/RPG Cameras & Controllers/ThirdPartyAssets/Unity/3DGamekit/Art/Materials/Environment/Stonework/MovingPlatform_mat.mat
+  uploadId: 713013
