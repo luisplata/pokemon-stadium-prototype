@@ -17,7 +17,7 @@ namespace V2
         [SerializeField] private GameObject target;
         [SerializeField] private AbilitiesConfiguration abilitiesConfiguration;
         [SerializeField] private GameObject principalBody;
-        [SerializeField] private RPGControllerExtended rpgController;
+        // [SerializeField] private RPGControllerExtended rpgController;
 
         private ITarget targetSelected;
         private AbilitiesFactory _abilityFactory;
@@ -135,18 +135,18 @@ namespace V2
         public void GoTo(Vector2 direction2D)
         {
             Debug.Log($"direction {direction2D}");
-            rpgController.SetExternalMovement(direction2D);
+            // rpgController.SetExternalMovement(direction2D);
         }
 
         public void IsControlActivate(bool isEnable)
         {
             if (isEnable)
             {
-                rpgController.ActivateControls();
+                // rpgController.ActivateControls();
             }
             else
             {
-                rpgController.DeactivateControls();
+                // rpgController.DeactivateControls();
             }
         }
     }

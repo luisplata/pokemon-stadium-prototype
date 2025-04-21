@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      druid_0: -3179525618254227939
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
